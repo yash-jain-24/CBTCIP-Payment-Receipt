@@ -1,0 +1,2 @@
+install a vs-code extension named as "vscode-pdf"
+install a python library named as "reportlab"
